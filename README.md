@@ -69,6 +69,8 @@ No Linux ou macOS:
 
 Compilador online [GBD Online](https://www.onlinegdb.com/):
 
+Acesse o código fonte compilado no GBD Online [aqui](https://www.onlinegdb.com/6QSc4U3Ts)
+
 Acesse o [GBD Online](https://www.onlinegdb.com/) e selecione a linguagem C.
 
 Acesse o código [aqui](https://github.com/gustavomaxfs07/calculator-matrix/blob/main/main.c) copie e cole no [GBD Online](https://www.onlinegdb.com/) e execute [GBD Online](https://www.onlinegdb.com/).
